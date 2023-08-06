@@ -73,3 +73,16 @@ nav .brand-logo .breadcrumb2 {
     left: 20%;
   }
 }
+
+.btn {
+  background-color: #ff8f00 !important;
+}
+
+.card {
+  /*background-color: #fff8e1;*/
+  /*background-color: #fff8e1;*/
+}
+
+#root {
+  background-color: #e8eaf6 !important;
+}

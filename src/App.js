@@ -15,7 +15,7 @@ import { Meal } from './pages/Meal';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename='/spa-catalog'>
         <Header />
         <main className='container content'>
           <Switch>

@@ -8,11 +8,11 @@ const Header = () => {
   //const array = loc.pathname.split('/');
 
   return (
-    <nav className='purple darken-4'>
+    <nav className=' blue-grey'>
       <div className='nav-wrapper'>
         <div className='brand-logo'>
           <Link to='/' className='breadcrumb2'>
-            Catalog
+            spa-catalog
           </Link>
           {/* {array[1] === 'category' && (
             <>
