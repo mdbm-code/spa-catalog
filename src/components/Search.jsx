@@ -28,7 +28,7 @@ const Search = ({ cb = Function.prototype }) => {
         />
         <button
           className='btn'
-          onClick={() => onSubmit}
+          onClick={onSubmit}
           style={{ position: 'absolute', top: 0, right: 0 }}
         >
           Search
